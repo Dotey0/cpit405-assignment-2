@@ -1,0 +1,32 @@
+body{
+margin-left: 36%;
+}
+
+button{
+    border-radius: 4px;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    color: #e5714f;
+}
+h2{
+    margin-left:40px;
+}
+option{
+    color: #749d52;
+}
+.home-button{
+  margin-left:13%  ;
+}
+select{
+    margin-left:80px;
+}
+p{
+    margin-left: 140px;
+    margin-bottom: 40px;
+}
+.search{
+    margin-left: 40px;
+}

@@ -1,0 +1,31 @@
+.h1-text{
+ margin-left:38%;
+ color: #dfb0a2;
+}
+h2{
+    margin-left:45%;
+color: #308695;
+}
+
+.first-button{
+   margin-left:43%; 
+   padding-right: 10px;
+   background-color: #11eecc;
+   border-radius:4px;
+}
+
+.sec-b{
+    background-color:#aa9fc9;
+    border-radius:4px;
+
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+img{
+    margin-left:16%;
+    margin-top: 10%;
+    width: 10%;
+
+}
